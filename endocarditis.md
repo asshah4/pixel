@@ -22,5 +22,17 @@ JF [081403074] - Anterior and posterior leaflet of mitral valve seen on both TTE
 
 RP [081262093] - SVC/RA junction mass in RA on TEE, not necessarily seen on TTE
 
+# Potential Plans
 
+Question: How can we use pixel density ratios to evaluate vegetation infectious status?
+
+Aspects to consider are:
+Illness onset-historical data
+Blood culture results
+Use of antibiotics
+Blood chemistries such as CBC and inflammatory markers
+Hospital course- febrile status
+PET scanning
+
+There may be other indicators of infectious status. The above are time related.
 
