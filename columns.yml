@@ -1,0 +1,42 @@
+level1:
+  ID:
+    desc: Unique identifier
+    valid:
+      - col_vals_not_null()
+  ECHO:
+    desc: Type of echocardiogram
+    valid:
+      - col_is_character()
+  DT:
+    desc: Calendar date in YYYY-MM-DD format
+    valid:
+      - col_is_date()
+  STRUCT:
+    desc: Target object to be measured
+  AREA:
+    desc: ImageJ area
+  MEAN:
+    desc: ImageJ mean pixel density
+  MIN:
+    desc: ImageJ minimum pixel density
+  MAX:
+    desc: ImageJ maximum pixel density
+  N:
+  	desc: Number or count
+level2:
+  PAT:
+    desc: Patient
+  HOSP:
+    desc: Hospital
+	VIEW:
+	  desc: Echo view
+    valid:
+      - col_is_character()
+	VALVE:
+	  desc: Valve or structure of interest or focus
+	LESION:
+		desc: Type of lesion (e.g. thrombus, vegetation)
+	REF:
+	  desc: Reference structure type/location
+level3:
+  "\\d{4}": []
