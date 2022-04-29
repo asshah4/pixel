@@ -22,6 +22,8 @@ JF [081403074] - Anterior and posterior leaflet of mitral valve seen on both TTE
 
 RP [081262093] - SVC/RA junction mass in RA on TEE, not necessarily seen on TTE
 
+JL [073861601] - AV vegetation of unknown etiology with pending dehiscence
+
 # Potential Plans
 
 Question: How can we use pixel density ratios to evaluate vegetation infectious status?
