@@ -11,18 +11,10 @@ level1:
     desc: Calendar date in YYYY-MM-DD format
     valid:
       - col_is_date()
-  STRUCT:
-    desc: Target object to be measured
-  AREA:
-    desc: ImageJ area
-  MEAN:
-    desc: ImageJ mean pixel density
-  MIN:
-    desc: ImageJ minimum pixel density
-  MAX:
-    desc: ImageJ maximum pixel density
-  N:
-  	desc: Number or count
+  TARGET:
+    desc: Target object being measured
+  REF:
+  	desc: Reference object for comparison
 level2:
   PAT:
     desc: Patient
@@ -34,9 +26,17 @@ level2:
       - col_is_character()
 	VALVE:
 	  desc: Valve or structure of interest or focus
-	LESION:
-		desc: Type of lesion (e.g. thrombus, vegetation)
-	REF:
-	  desc: Reference structure type/location
+  STRUCT:
+    desc: Type of object being measured
+  AREA:
+    desc: ImageJ area
+  MEAN:
+    desc: ImageJ mean pixel density
+  MIN:
+    desc: ImageJ minimum pixel density
+  MAX:
+    desc: ImageJ maximum pixel density
+  N:
+  	desc: Number or count if multiple are taken from a dataset
 level3:
   "\\d{4}": []
