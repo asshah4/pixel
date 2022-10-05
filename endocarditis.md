@@ -9,6 +9,7 @@ STATUS 		All clips downloaded
 
 MJ [080827935]
 Mobile echodensity at SVC/RA caval junction (thrombus versus infected thrombus) on TEE, but nothing on TTE.
+STATUS 		All images downloaded
 
 JS [081562882]
 Aortic regurgitation with nodular lesion between MV and AV on TEE, also can see on TTE x 1.
