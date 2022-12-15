@@ -1,15 +1,21 @@
 # Pilot
 
 HM [081129349] 
-AV root abscess with multiple TEE and TTE and priors
+DESC      AV root abscess with multiple TEE and TTE and priors
+STATUS    IMAGES ACQUIRED
 
 VC [200169465] 
-Mitral valve vegetation on multiple TTE and TEE.
-STATUS 		All clips downloaded
+DESC      Mitral valve vegetation on multiple TTE and TEE.
+STATUS 		IMAGES ACQUIRED
 
 MJ [080827935]
+<<<<<<< HEAD
 Mobile echodensity at SVC/RA caval junction (thrombus versus infected thrombus) on TEE, but nothing on TTE.
 STATUS 		All images downloaded
+=======
+DESC      Mobile echodensity at SVC/RA caval junction (thrombus versus infected thrombus) on TEE, but nothing on TTE
+STATUS    IMAGES ACQUIRED
+>>>>>>> 261f2e422b57c8dc33bc48370ad4a3bbf82b16de
 
 JS [081562882]
 Aortic regurgitation with nodular lesion between MV and AV on TEE, also can see on TTE x 1.
@@ -39,8 +45,8 @@ RP [081262093]
 SVC/RA junction mass in RA on TEE, not necessarily seen on TTE
 
 JL [073861601] 	
-AV vegetation of unknown etiology with pending dehiscence
-STATUS 		All clips downloaded
+DESC      AV vegetation of unknown etiology with pending dehiscence
+STATUS 		IMAGES ACQUIRED
 
 # Potential Plans
 
