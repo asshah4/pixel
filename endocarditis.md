@@ -9,23 +9,21 @@ DESC      Mitral valve vegetation on multiple TTE and TEE.
 STATUS 		IMAGES ACQUIRED
 
 MJ [080827935]
-<<<<<<< HEAD
-Mobile echodensity at SVC/RA caval junction (thrombus versus infected thrombus) on TEE, but nothing on TTE.
-STATUS 		All images downloaded
-=======
 DESC      Mobile echodensity at SVC/RA caval junction (thrombus versus infected thrombus) on TEE, but nothing on TTE
 STATUS    IMAGES ACQUIRED
->>>>>>> 261f2e422b57c8dc33bc48370ad4a3bbf82b16de
 
 JS [081562882]
-Aortic regurgitation with nodular lesion between MV and AV on TEE, also can see on TTE x 1.
-STATUS 		All clips downloaded
+DESC 			Aortic regurgitation with nodular lesion between MV and AV on TEE, also can see on TTE x 1.
+STATUS 		
+
+AA [072994544]
+DESC 			MV thickened with echodensities. TEE and many prior TTE.
+STATUS 		IMAGES ACQUIRED (all of 2019, previous up to 2011)
 
 AS [072261969]
 TV vegetation with mobile mass seen on TTE and TEE (difference of x1 month in timing)
 STATUS 		All clips downloaded
 
-AA [072994544] - MV thickened with echodensities. TEE and many prior TTE.
 
 JM [090929389] - Vegetation on anterior leaflet of TV on TEE and TTE
 
