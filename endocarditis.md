@@ -14,15 +14,15 @@ STATUS    IMAGES ACQUIRED
 
 JS [081562882]
 DESC 			Aortic regurgitation with nodular lesion between MV and AV on TEE, also can see on TTE x 1.
-STATUS 		
+STATUS 		IMAGES ACQUIRED
 
 AA [072994544]
 DESC 			MV thickened with echodensities. TEE and many prior TTE.
 STATUS 		IMAGES ACQUIRED (all of 2019, previous up to 2011)
 
 AS [072261969]
-TV vegetation with mobile mass seen on TTE and TEE (difference of x1 month in timing)
-STATUS 		All clips downloaded
+DESC 			TV vegetation with mobile mass seen on TTE and TEE (difference of x1 month in timing)
+STATUS 		IMAGES ACQUIRED
 
 
 JM [090929389] - Vegetation on anterior leaflet of TV on TEE and TTE
